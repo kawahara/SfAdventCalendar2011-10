@@ -15,10 +15,10 @@ Doctrine2 Timezone 対応 - Symfony Advent Calendar 2011 - Day 10
 
 この記事は `Symfony Advent Calendar 2011 <http://atnd.org/events/22378>`_ の記事です。
 
-`<-9日目`_ **10日目(今ここ)** 11日目->
+`<-9日目`_ **10日目(今ここ)** `11日目->`_
 
 .. _`<-9日目`: http://d.hatena.ne.jp/Kiske/20111209/1323431291
-.. _`10日目->`: http://example.com
+.. _`11日目->`: http://phpmentors.jp/post/14064804025/dependency-injection-symfony
 
 概要
 ====
